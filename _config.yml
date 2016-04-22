@@ -1,7 +1,7 @@
 name: Carmel Landscaping
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.50001
+typography_spectrum: 0.3784
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.25
+  brandStrength: 0.3125
   lightness: 0.4375
   saturation: 0.5625
   rhythmicContrast: 0.25
